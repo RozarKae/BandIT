@@ -1,0 +1,217 @@
+{
+  "session_id": "be9cc71a-e861-4e54-8122-9da2184fe7e5",
+  "candidate_name": "Maria Silva",
+  "test_set_id": "ielts_set_tech_01",
+  "test_theme": "Technology, Artificial Intelligence & Modern Life",
+  "total_turns": 26,
+  "transcript": [
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART1_ID_CHECK",
+      "text": "Good afternoon. My name is Dr. Edwards. This is the speaking test for the International English Language Testing System. Could you please state your full name for the record?",
+      "timestamp": "2026-11-18T15:30:16.795257",
+      "duration_seconds": null,
+      "question_id": null
+    },
+    {
+      "speaker": "CANDIDATE",
+      "stage": "PART1_ID_CHECK",
+      "text": "Good afternoon. My name is Maria Silva, and you can simply call me Maria.",
+      "timestamp": "2026-11-18T15:30:16.795287",
+      "duration_seconds": 5.2,
+      "question_id": null
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART1_QUESTIONS",
+      "text": "Thank you. In this first part, I'd like to ask you some questions about yourself and your everyday life. Let's talk about Mobile Phones & Apps. How often do you use mobile apps in your daily life, and what kind of apps do you find most useful?",
+      "timestamp": "2026-11-18T15:30:16.795308",
+      "duration_seconds": null,
+      "question_id": "p1_tech_01"
+    },
+    {
+      "speaker": "CANDIDATE",
+      "stage": "PART1_QUESTIONS",
+      "text": "Well, I use mobile applications constantly throughout the day, especially productivity tools like calendar apps and language learning platforms. They help me manage my daily routine and stay organized.",
+      "timestamp": "2026-11-18T15:30:16.795326",
+      "duration_seconds": 22.4,
+      "question_id": null
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART1_QUESTIONS",
+      "text": "Thank you. Do you prefer texting people or calling them? Why?",
+      "timestamp": "2026-11-18T15:30:16.795362",
+      "duration_seconds": null,
+      "question_id": "p1_tech_02"
+    },
+    {
+      "speaker": "CANDIDATE",
+      "stage": "PART1_QUESTIONS",
+      "text": "To be honest, it really depends on the situation. For quick logistical updates or casual chats, I prefer texting because it is convenient and non-intrusive. However, for complex discussions or when I miss my family, phone calls are much more personal.",
+      "timestamp": "2026-11-18T15:30:16.795378",
+      "duration_seconds": 26.1,
+      "question_id": null
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART1_QUESTIONS",
+      "text": "Thank you. Now let's talk about Online Communication. Have you ever felt that you spend too much time on electronic devices?",
+      "timestamp": "2026-11-18T15:30:16.795396",
+      "duration_seconds": null,
+      "question_id": "p1_tech_03"
+    },
+    {
+      "speaker": "CANDIDATE",
+      "stage": "PART1_QUESTIONS",
+      "text": "Yes, definitely. Occasionally I find myself mindlessly scrolling through social media feeds for hours, especially late in the evening. I have recently tried setting daily screen time limits to curb this habit.",
+      "timestamp": "2026-11-18T15:30:16.795412",
+      "duration_seconds": 24.5,
+      "question_id": null
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART1_QUESTIONS",
+      "text": "Thank you. What do you think are the advantages of meeting people face-to-face compared to online?",
+      "timestamp": "2026-11-18T15:30:16.795438",
+      "duration_seconds": null,
+      "question_id": "p1_tech_04"
+    },
+    {
+      "speaker": "CANDIDATE",
+      "stage": "PART1_QUESTIONS",
+      "text": "I think in-person interaction provides subtle non-verbal cues, such as eye contact and body language, which are often lost through digital screens. It builds genuine rapport and deeper emotional connections.",
+      "timestamp": "2026-11-18T15:30:16.795453",
+      "duration_seconds": 28.3,
+      "question_id": null
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART2_CUE_CARD_PRESENTED",
+      "text": "Now, I'm going to give you a topic and I'd like you to speak about it for one to two minutes. Before you begin, you have one minute to think about what you are going to say. You may make notes if you wish. Here is your topic card and digital notepad.\n\nTopic: Describe a piece of technology or application that has significantly helped you in your work or studies.\nYou should say:\n\u2022 What this technology or application is\n\u2022 When and how you first discovered it\n\u2022 What features or tools it offers that you rely on\n\u2022 And explain why this technology has made such a significant difference to you.\n\nYour one minute preparation starts now.",
+      "timestamp": "2026-11-18T15:30:16.795487",
+      "duration_seconds": null,
+      "question_id": "p2_tech_01"
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART2_SPEAKING",
+      "text": "Your one minute preparation is up. Please begin speaking now. Remember, you have up to two minutes for this, so don't worry if I stop you. I will tell you when the time is up.",
+      "timestamp": "2026-11-18T15:30:16.795508",
+      "duration_seconds": null,
+      "question_id": "p2_tech_01"
+    },
+    {
+      "speaker": "CANDIDATE",
+      "stage": "PART2_SPEAKING",
+      "text": "I would like to talk about a project management tool called Notion, which has significantly enhanced my academic productivity. I first encountered this software about two years ago during my final undergraduate semester when I was juggling multiple dissertations and coursework deadlines. Before using it, my notes were scattered across various physical notebooks and digital sticky notes, which was quite chaotic. Notion allowed me to create customizable databases, track research progress with Kanban boards, and embed academic citations seamlessly. What makes it indispensable for me is its versatility; whether I need a simple daily checklist or an elaborate literature review matrix, it adapts to my needs. It ultimately saved me countless hours of stress and made my study sessions far more structured.",
+      "timestamp": "2026-11-18T15:30:16.795528",
+      "duration_seconds": 68.0,
+      "question_id": null
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART2_ROUND_OFF",
+      "text": "Thank you. Do many people you know use this same technology?",
+      "timestamp": "2026-11-18T15:30:16.795546",
+      "duration_seconds": null,
+      "question_id": null
+    },
+    {
+      "speaker": "CANDIDATE",
+      "stage": "PART2_ROUND_OFF",
+      "text": "Yes, quite a few of my colleagues and fellow students have adopted it recently.",
+      "timestamp": "2026-11-18T15:30:16.795564",
+      "duration_seconds": 6.8,
+      "question_id": null
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART2_ROUND_OFF",
+      "text": "Thank you. Do you think it will still be useful five years from now?",
+      "timestamp": "2026-11-18T15:30:16.795582",
+      "duration_seconds": null,
+      "question_id": null
+    },
+    {
+      "speaker": "CANDIDATE",
+      "stage": "PART2_ROUND_OFF",
+      "text": "Without doubt, although with rapid advancements in AI features, it will probably look quite different in five years.",
+      "timestamp": "2026-11-18T15:30:16.795597",
+      "duration_seconds": 11.2,
+      "question_id": null
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART3_DISCUSSION",
+      "text": "We've been talking about A Technological Product or Software, and I'd like to discuss with you one or two more general questions related to this. Let's consider... Some people believe artificial intelligence will replace most white-collar jobs. To what extent do you agree with this view?",
+      "timestamp": "2026-11-18T15:30:16.795623",
+      "duration_seconds": null,
+      "question_id": "p3_tech_01"
+    },
+    {
+      "speaker": "CANDIDATE",
+      "stage": "PART3_DISCUSSION",
+      "text": "I think artificial intelligence will automate repetitive analytical tasks, such as basic data entry or contract review. However, roles requiring emotional intelligence, critical ethical judgment, and complex negotiation will likely remain predominantly human. Therefore, it will transform job roles rather than eliminate employment entirely.",
+      "timestamp": "2026-11-18T15:30:16.795638",
+      "duration_seconds": 42.0,
+      "question_id": null
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART3_DISCUSSION",
+      "text": "Thank you. How can governments ensure that older generations are not left behind as societies transition into fully cashless and digital environments?",
+      "timestamp": "2026-11-18T15:30:16.795669",
+      "duration_seconds": null,
+      "question_id": "p3_tech_02"
+    },
+    {
+      "speaker": "CANDIDATE",
+      "stage": "PART3_DISCUSSION",
+      "text": "Governments should establish free digital workshops in local community centers.",
+      "timestamp": "2026-11-18T15:30:16.795723",
+      "duration_seconds": 6.5,
+      "question_id": null
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART3_DISCUSSION",
+      "text": "Why do you think that is the case?",
+      "timestamp": "2026-11-18T15:30:16.795767",
+      "duration_seconds": null,
+      "question_id": "p3_tech_02"
+    },
+    {
+      "speaker": "CANDIDATE",
+      "stage": "PART3_DISCUSSION",
+      "text": "Because many senior citizens feel intimidated by touchscreen technology and banking applications, so patient, step-by-step human tutoring in community hubs is essential to prevent digital exclusion.",
+      "timestamp": "2026-11-18T15:30:16.795791",
+      "duration_seconds": 26.4,
+      "question_id": null
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "PART3_DISCUSSION",
+      "text": "Thank you. Do you believe people have willingly surrendered too much personal privacy in exchange for the convenience of smart devices?",
+      "timestamp": "2026-11-18T15:30:16.795826",
+      "duration_seconds": null,
+      "question_id": "p3_tech_03"
+    },
+    {
+      "speaker": "CANDIDATE",
+      "stage": "PART3_DISCUSSION",
+      "text": "Regrettably, modern consumers often sacrifice privacy for immediate convenience. Clicking 'agree' on algorithmic terms of service is vastly easier than scrutinizing data protection agreements, but it exposes personal behavioral profiles to commercial exploitation.",
+      "timestamp": "2026-11-18T15:30:16.795845",
+      "duration_seconds": 39.5,
+      "question_id": null
+    },
+    {
+      "speaker": "EXAMINER",
+      "stage": "COMPLETED",
+      "text": "Thank you very much. That is the end of the speaking test.",
+      "timestamp": "2026-11-18T15:30:16.795872",
+      "duration_seconds": null,
+      "question_id": null
+    }
+  ]
+}
